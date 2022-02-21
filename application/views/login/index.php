@@ -9,7 +9,7 @@
 				<div class="card-body p-0">
 					<!-- Nested Row within Card Body -->
 					<div class="row">
-						<div class="col-lg-6 d-none d-lg-block bg-login-image">
+						<div class="col-lg-6 d-none d-lg-block" style="background-image: url('<?= base_url() ?>assets/icon/background.jpeg');background-repeat: no-repeat;">
 							<div class="p-5">
 								<br>
 								<div class="judul">
@@ -29,7 +29,7 @@
 										<h1 class="h2 text-white mb-4"><b>APLIKASI</b></h1>
 									</div>
 									<div class="text-center">
-										<h1 class="h3 text-white mb-4">INVENTARIS BARANG</h1>
+										<h1 class="h3 text-white mb-4">INVENTARIS BARANG SMA N 03 MUKO-MUKO</h1>
 									</div>
 									<hr class="bg-white">
 								</div>

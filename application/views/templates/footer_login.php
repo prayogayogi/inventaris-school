@@ -9,9 +9,9 @@
 <script src="<?= base_url(); ?>assets/sbadmin/js/sb-admin-2.min.js"></script>
 
 <script type="text/javascript">
-$(window).load(function() {
-    $(".loader").fadeOut("slow");
-});
+	$(window).load(function() {
+		$(".loader").fadeOut("slow");
+	});
 </script>
 
 <script src="<?= base_url(); ?>assets/sweetalert2/dist/sweetalert2.all.min.js"></script>

@@ -97,7 +97,7 @@
 	</div>
 
 
-	<div class="row">
+	<div class="row d-none">
 
 		<!-- Area Chart -->
 		<div class="col-xl-12 col-lg-12">

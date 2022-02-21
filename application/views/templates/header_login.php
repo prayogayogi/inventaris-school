@@ -43,6 +43,6 @@ if ($this->session->has_userdata('login_session')) {
 
 </head>
 
-<body class="bg-gradient-secondary">
+<body class="bg-gradient-secondary" style="background: #B983FF;">
 	<!-- Base url untuk js-->
 	<input type="hidden" value="<?= base_url() ?>" id="baseurl">
