@@ -51,7 +51,7 @@ if (!$this->session->has_userdata('login_session')) {
 			<!-- Sidebar - Brand -->
 			<a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?= base_url() ?>home">
 				<div class="sidebar-brand-icon ">
-					<img src="<?= base_url(); ?>assets/icon/logo-sma.png" width="50">
+					<img src="<?= site_url('assets/icon/logo-sma.png'); ?>" width="50">
 				</div>
 				<div class="sidebar-brand-text mx-3 ">INVENTARIS</div>
 

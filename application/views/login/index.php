@@ -9,12 +9,12 @@
 				<div class="card-body p-0">
 					<!-- Nested Row within Card Body -->
 					<div class="row">
-						<div class="col-lg-6 d-none d-lg-block" style="background-image: url('<?= base_url() ?>assets/icon/background.jpeg');background-repeat: no-repeat;">
+						<div class="col-lg-6 d-none d-lg-block" style="background-image: url('<?= base_url('assets/Icon/') ?>background.jpeg');background-repeat: no-repeat;">
 							<div class="p-5">
 								<br>
 								<div class="judul">
 									<center>
-										<img width="150px" src="<?= base_url() ?>assets/icon/logo-sma.png" alt="">
+										<img width="150px" src="<?= base_url('assets/icon/') ?>logo-sma.png" alt="">
 									</center>
 								</div>
 								<br>
